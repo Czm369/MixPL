@@ -22,7 +22,7 @@ geometric = [
     [dict(type='TranslateY')],
 ]
 
-scale = [(333, 400), (333, 200)]
+scale = [(1333, 400), (1333, 1200)]
 
 branch_field = ['sup', 'unsup_teacher', 'unsup_student']
 # pipeline used to augment labeled data,
